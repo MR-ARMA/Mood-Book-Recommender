@@ -51,7 +51,7 @@ This project develops a **context-aware book recommendation system** that predic
 2. Install dependencies: `pip install -r requirements.txt`
 3. Follow the instructions in `docs/INSTALL.md` for setup and usage.
 
-For more details, please refer to the [project documentation](docs/README.md).
+For more details, please refer to the [project documentation](./Document/introduction.md).
 
 ## License
 
