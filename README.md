@@ -18,7 +18,7 @@ This project develops a **context-aware book recommendation system** that predic
 - **Essays Dataset**: Used for training personality prediction models. [Essays Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/mbti-type)
 - **GoEmotions Dataset**: For training emotion detection models. [GoEmotions on GitHub](https://github.com/google-research/google-research/tree/master/goemotions)
 - **Goodreads Dataset**: For content-based and collaborative filtering. [Goodreads Dataset on Kaggle](https://www.kaggle.com/datasets/zygmunt/goodbooks-10k)
-- **Book-Crossing Dataset**: Provides additional user-item interaction data. [Book-Crossing Dataset on Kaggle](https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset)
+
 
 ### Model Development
 
@@ -47,12 +47,8 @@ This project develops a **context-aware book recommendation system** that predic
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
+1. Clone the repository: `git clone https://github.com/MR-ARMA/Mood-Book-Recommender.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Follow the instructions in `docs/INSTALL.md` for setup and usage.
 
 For more details, please refer to the [project documentation](./Document/introduction.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
